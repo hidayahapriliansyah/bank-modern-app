@@ -1,0 +1,1 @@
+1. Kenapa lebih memilih bikin file style.css dari pada menuliskan langsung theme di tailwind config?
