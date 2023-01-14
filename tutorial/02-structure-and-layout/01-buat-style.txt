@@ -1,0 +1,3 @@
+buat style.js di folder src isinya dari github gist.
+
+hayyyyuuu 
