@@ -1,0 +1,6 @@
+INSTALL TAILWIND NA LAMUN PAKE VITE MAH AYA CARA KHUSUSNA HEY.
+
+teu bisa make cara biasa ...
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
