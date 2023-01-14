@@ -1,0 +1,27 @@
+kita pakai vite js.
+
+BARU TAHU NICHSSSS ... 
+
+sumber : https://vitejs.dev/guide/
+
+install vite ..
+
+pilih react + js
+
+npm install deh ...
+
+npm run dev ... 
+keliatan kok di package.json nya ..
+
+=============
+
+ubah tailwind.config.cjs dan index.css menggunakan kode dari github ini :
+
+https://github.com/adrianhajdin/project_hoobank/blob/main/tailwind.config.cjs
+
+===========================
+
+ubah App.jsx jadi rafce. 
+
+
+===========
