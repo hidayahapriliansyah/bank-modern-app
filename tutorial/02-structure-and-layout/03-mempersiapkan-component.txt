@@ -1,0 +1,35 @@
+Kita akan bikin component yang udah direncanain
+dengan membuat file .jsx untuk setiap komponen.
+Kita buat folder components yang berisi :
+
+    (btw ini saya kopi dari imort nya ya ...)
+    kita bikin file file jsx ini ...
+
+    import Navbar from './Navbar';
+    import Billing from './Billing';
+    import Business from './Business';
+    import Button from './Button';
+    import CardDeal from './CardDeal';
+    import Clients from './Clients';
+    import FeedBackCard from './FeedBackCard';
+    import Footer from './Footer';
+    import Hero from './Hero';
+    import Stats from './Stats';
+
+lalu kita buat file index.js yang berfungsi sebagai 
+main export agar file jsx bisa di import dengan rapi.
+
+Pada file App.jsx kita panggil setiap component dari folder components 
+dengan menggunakan destructuring objek :
+
+    import { Navbar, Hero, Stats, Business, Billing , CardDeal , Testimonial , Clients , CTA , Footer } from './components';
+
+Lalu kita gunakan jsx nya deh jadi kayak gini :
+        <Stats />
+        <Business />
+        <Billing  />
+        <CardDeal  />
+        <Testimonial  />
+        <Clients  />
+        <CTA  />
+        <Footer  />
